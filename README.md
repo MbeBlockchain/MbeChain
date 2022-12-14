@@ -82,7 +82,7 @@ allowing more users to use DeFi applications at a low threshold.  </td> <td rows
 <tr style="background:rgba(0,0,0,0)"><td rowspan=3>Flame</td> <td rowspan=3>
 
 Enable Layer2 technology.
-Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2022 Q2</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
+Expand performance while retaining the decentralized advantages of distributed protocols.</td><td rowspan=3>2023 Q2</td><td rowspan=3>To be announced</td><td>Application of Layer2</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability protocol</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Cross-chain interoperability integration</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td rowspan=5>Blaze</td> <td rowspan=5>
