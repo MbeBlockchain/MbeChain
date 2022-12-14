@@ -1,4 +1,4 @@
-# MBE ECO Chain – MBE
+# MBE Chain – MBE
 
 English | [简体中文](README_CN.md)
 
